@@ -16,7 +16,7 @@ A curated collection of backend and full-stack applications built using **Java**
 A comprehensive system to manage books, authors, and student borrowings.
 * **Key Features:** User Authentication (JWT), CRUD for Books, Borrowing Logic, Search Filters.
 * **Path:** `/LibrarySystem`
-* **Status:** In Progress 🏗️
+* **Status:** Completed ✅
 
 
 ---
