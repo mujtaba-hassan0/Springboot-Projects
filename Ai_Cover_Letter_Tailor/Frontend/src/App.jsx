@@ -4,7 +4,7 @@ import AuthGateway from './components/auth/AuthGateway';
 import Navbar from './components/navigation/Navbar';
 import Profile from './components/profile/Profile';
 import TailorWorkspace from './components/dashboard/TailorWorkspace';
-import HistoryList from './components/History/HistoryList';
+import HistoryList from './components/history/HistoryList';
 
 // Route Guard Component
 const ProtectedRoute = ({ isAuthenticated, children }) => {
